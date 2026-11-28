@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.audit/
+upgrade-decisions.tsv
+.sleepynails/
+node_modules/

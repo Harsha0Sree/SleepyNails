@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sleepynails",
+  "version": "1.0.0",
+  "description": "Generational codebase upgrades for frontier models. Revamp older AI-built projects to a newer model's full capability with zero behavioral drift and verified proof.",
+  "author": {
+    "name": "Harsha0Sree",
+    "url": "https://github.com/Harsha0Sree"
+  },
+  "homepage": "https://github.com/Harsha0Sree/sleepynails",
+  "repository": "https://github.com/Harsha0Sree/sleepynails",
+  "license": "MIT",
+  "keywords": [
+    "sleepynails",
+    "codebase-upgrade",
+    "model-upgrade",
+    "refactoring",
+    "verification",
+    "principles",
+    "skills"
+  ]
+}
